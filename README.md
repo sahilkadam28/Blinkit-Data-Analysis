@@ -7,13 +7,13 @@ The dashboard delivers a consolidated view of sales metrics, outlet performance,
 
 💡 Key Metrics
 
-Total Sales: $1.20M
+- Total Sales: $1.20M
 
-Average Sales per Item: $141
+- Average Sales per Item: $141
 
-Total Items Sold: 8,523
+- Total Items Sold: 8,523
 
-Average Customer Rating: 3.9
+- Average Customer Rating: 3.9
 
 📈 Business Insights
 
@@ -28,23 +28,23 @@ Average Customer Rating: 3.9
 
 - Outlet Analytics:
 
-  Sales by outlet size (Small, Medium, High)
+  1. Sales by outlet size (Small, Medium, High)
 
-  Sales by outlet location (Tier 1, Tier 2, Tier 3)
+  2. Sales by outlet location (Tier 1, Tier 2, Tier 3)
 
-  Performance comparison by outlet type (Grocery Stores and Supermarkets)
+  3. Performance comparison by outlet type (Grocery Stores and Supermarkets)
 
 🎛️ Interactive Features
 
 - Dynamic filtering by:
 
-  Outlet Location Type
+  1. Outlet Location Type
 
-  Outlet Size
+  2. Outlet Size
 
-  Item Type
+  3. Item Type
 
-  Real-time KPI updates based on selected filters
+  4. Real-time KPI updates based on selected filters
 
 🛠️ Skills Demonstrated
 

@@ -17,44 +17,44 @@ Average Customer Rating: 3.9
 
 📈 Business Insights
 
-Sales Trend Analysis:
-Visualizes outlet establishment performance over time to identify growth patterns and peak sales years.
+- Sales Trend Analysis:
+  Visualizes outlet establishment performance over time to identify growth patterns and peak sales years.
 
-Product Performance:
-Sales contribution by item categories such as fruits, snacks, dairy, frozen foods, beverages, and household items.
+- Product Performance:
+  Sales contribution by item categories such as fruits, snacks, dairy, frozen foods, beverages, and household items.
 
-Fat Content Analysis:
-Comparison of low-fat vs regular product sales across different outlet tiers.
+- Fat Content Analysis:
+  Comparison of low-fat vs regular product sales across different outlet tiers.
 
-Outlet Analytics:
+- Outlet Analytics:
 
-Sales by outlet size (Small, Medium, High)
+  Sales by outlet size (Small, Medium, High)
 
-Sales by outlet location (Tier 1, Tier 2, Tier 3)
+  Sales by outlet location (Tier 1, Tier 2, Tier 3)
 
-Performance comparison by outlet type (Grocery Stores and Supermarkets)
+  Performance comparison by outlet type (Grocery Stores and Supermarkets)
 
 🎛️ Interactive Features
 
-Dynamic filtering by:
+- Dynamic filtering by:
 
-Outlet Location Type
+  Outlet Location Type
 
-Outlet Size
+  Outlet Size
 
-Item Type
+  Item Type
 
-Real-time KPI updates based on selected filters
+  Real-time KPI updates based on selected filters
 
 🛠️ Skills Demonstrated
 
-Data Cleaning & Transformation
+1. Data Cleaning & Transformation
 
-KPI Design & Business Metrics
+2. KPI Design & Business Metrics
 
-Data Visualization & Dashboard Design
+3. Data Visualization & Dashboard Design
 
-Analytical Thinking & Insight Generation
+4. Analytical Thinking & Insight Generation
 
 🎯 Use Cases
 
